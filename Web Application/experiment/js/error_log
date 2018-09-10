@@ -1,0 +1,12 @@
+[11-Jun-2018 13:12:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function replace() in /home/sophiaha/public_html/experiment/js/init_condition_charts.js.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/sophiaha/public_html/experiment/js/init_condition_charts.js.php on line 44
+[13-Jun-2018 11:24:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/sophiaha/public_html/experiment/js/init_condition_charts.js.php on line 80
+[13-Jun-2018 11:24:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/sophiaha/public_html/experiment/js/init_condition_charts.js.php on line 104
+[13-Jun-2018 11:24:46 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/sophiaha/public_html/experiment/js/init_condition_charts.js.php on line 119
+[13-Jun-2018 11:25:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/sophiaha/public_html/experiment/js/web_player_fullphp.php on line 47
+[13-Jun-2018 11:25:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/sophiaha/public_html/experiment/js/web_player_fullphp.php on line 55
+[20-Jun-2018 14:44:50 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/sophiaha/public_html/experiment/js/web_player.js on line 46
+[29-Jul-2018 15:07:09 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/sophiaha/public_html/experiment/js/web_player.js on line 70
+[29-Jul-2018 15:07:09 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/sophiaha/public_html/experiment/js/web_player.js on line 78

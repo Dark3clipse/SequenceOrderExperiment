@@ -1,0 +1,26 @@
+[13-Jun-2018 11:25:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/sophiaha/public_html/experiment/php/computation/create_playlist_local.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sophiaha/public_html/experiment/php/computation/create_playlist_local.php on line 4
+[13-Jun-2018 11:25:13 UTC] PHP Warning:  include(php/computation/delete_playlist_spotify.php): failed to open stream: No such file or directory in /home/sophiaha/public_html/experiment/php/computation/create_playlist_spotify.php on line 5
+[13-Jun-2018 11:25:13 UTC] PHP Warning:  include(): Failed opening 'php/computation/delete_playlist_spotify.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophiaha/public_html/experiment/php/computation/create_playlist_spotify.php on line 5
+[13-Jun-2018 11:25:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function createUserPlaylist() on null in /home/sophiaha/public_html/experiment/php/computation/create_playlist_spotify.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sophiaha/public_html/experiment/php/computation/create_playlist_spotify.php on line 14
+[13-Jun-2018 11:25:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMyPlaylists() on null in /home/sophiaha/public_html/experiment/php/computation/delete_playlist_spotify.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/sophiaha/public_html/experiment/php/computation/delete_playlist_spotify.php on line 3
+[13-Jun-2018 11:25:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/sophiaha/public_html/experiment/php/computation/fetch_recommendations.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sophiaha/public_html/experiment/php/computation/fetch_recommendations.php on line 4
+[13-Jun-2018 11:25:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getMyTop() on null in /home/sophiaha/public_html/experiment/php/computation/fetch_top_10.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sophiaha/public_html/experiment/php/computation/fetch_top_10.php on line 4
+[13-Jun-2018 11:25:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function showWarning() in /home/sophiaha/public_html/experiment/php/computation/store_top3_selection.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sophiaha/public_html/experiment/php/computation/store_top3_selection.php on line 4
