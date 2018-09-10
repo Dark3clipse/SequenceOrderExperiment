@@ -1,4 +1,4 @@
-User Experiment: The Effects of Tempo and Mood Variations on the Flow of Music Track Transitions
+User Experiment: The Effects of Tempo and Mood Variations on the Flow of Music Track Transitions (ver. 1.0)
 Author: Sophia Hadash, Eindhoven University of Technology, Faculty of Industrial Engineering and Innovation Sciences, E-mail: s.hadash@student.tue.nl
 
 Description
